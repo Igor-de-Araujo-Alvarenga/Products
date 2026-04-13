@@ -7,8 +7,8 @@
 
 #### Diagrams
 
-- [Products Diagram](https://github.com/Igor-de-Araujo-Alvarenga/Products/ProductsDiagram.drawio.png)
-- [Products flow](https://github.com/Igor-de-Araujo-Alvarenga/Products/products_payments_flow.pdf)
+- [Products Diagram](https://github.com/Igor-de-Araujo-Alvarenga/Products/blob/master/ProductsDiagram.drawio.png)
+- [Products flow](https://github.com/Igor-de-Araujo-Alvarenga/Products/blob/master/products_payment_flow.pdf)
 
 #### Build and run on windows
 
